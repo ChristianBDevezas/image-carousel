@@ -6,7 +6,7 @@ const totalNumber = document.getElementById("total");
 const leftButton = document.querySelector(".banner__btn-left");
 const rightButton = document.querySelector(".banner__btn-right");
 let index = 0;
-let interval = setInterval(changeBanner, 2500);
+let interval = setInterval(changeBanner, 3500);
 
 bannerImages.style.width =`${images.length * 100}%`;
 
