@@ -5,7 +5,9 @@
 }
 
 .banner {
-    min-width: 100%;
+    width: 100%;
+    max-width: 1450px;
+    margin: 0 auto;
     height: 100vh;
     overflow: hidden;
     position: relative;
